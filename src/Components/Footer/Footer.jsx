@@ -11,7 +11,7 @@ const Footer = () => {
       <p>
         Fmovies is a top free streaming website where you can watch movies online without
         registration. With a big database and great features, we're confident
-        that FMovies is the best free movies website you simply can't miss!
+        that FMovies is the best free movies plateform you simply can't miss!
       </p>
       <p>
         <a href="#"><i className="fab fa-twitter"></i> Connect with us on Twitter</a>
